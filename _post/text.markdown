@@ -7,7 +7,6 @@ author:     "CZY""
 header-img: "img/post-bg-alibaba.jpg"
 tags: 
     -web
-    -game
 ---
 
 <div >
