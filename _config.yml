@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: shaball@qq.com
 description: "这里是 @CZY小陈陈 的个人博客"
 keyword: "小陈陈, CZY陈, CZY, 鬼栈, CZYpro, @CZYpro, 陈的博客, CZY Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://cheer3692you.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: chen
-zhihu_username: chen
-github_username: chen
-twitter_username: chen
+#weibo_username: chen
+#zhihu_username: chen
+#github_username: chen
+#twitter_username: chen
 #facebook_username:  chen
 #linkedin_username:  firstname-lastname-idxxxx
 
