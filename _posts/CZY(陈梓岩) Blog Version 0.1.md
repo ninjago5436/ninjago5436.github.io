@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "CZY(陈梓岩) Blog Version 0.1"
-subtitle:   " \陈梓岩 Blog Version 0.1"\""
+subtitle:   " \"陈梓岩 Blog Version 0.1\""
 date:       2024-09-22 20:49:00
 author:     "CZY"
 header-img: "img/post-bg-2015.jpg"
